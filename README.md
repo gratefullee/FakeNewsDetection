@@ -4,7 +4,5 @@ For this project, by using a Kaggle fake news database(https://www.kaggle.com/cl
 ## Dataset
 roughly 45k cases (rows)
 
-data features (columns):
-
-'title', 'text', 'subject', 'date'
+data features (columns): 'title', 'text', 'subject', 'date'
 
